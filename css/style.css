@@ -13,3 +13,10 @@ h3 {
 h4 {
     color: #E5C07B;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
